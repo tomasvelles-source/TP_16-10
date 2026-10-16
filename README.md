@@ -1,6 +1,6 @@
 # Pipeline de control de presión arterial
 
-**Integrantes:** Apellido, Nombre · Apellido, Nombre · Apellido, Nombre
+**Integrantes:** Armas Netri Ignacio, Bogado Viscarra Tomás, Velles Aguirre Tomás
 
 ## Problema y usuario
 Un equipo de salud recibe mediciones de presión arterial en CSV y JSON con errores de carga.
